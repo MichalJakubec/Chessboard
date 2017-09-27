@@ -1,0 +1,1 @@
+Incorporate a for loop into another for loop to create a chessboard.
